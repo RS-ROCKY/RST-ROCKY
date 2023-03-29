@@ -103,7 +103,7 @@ logo = ("""
 [+] COUNTRY      :  BANGLADESH 
 [+] ON GITHUB    :  RS-ROCKY
 [+] TOOL STATUS  :  RANDOM
-[+] TOOL VERSION :  1.0
+[+] TOOL VERSION :  1.2
 [+]==============================================""")
 
 
